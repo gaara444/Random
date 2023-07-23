@@ -179,8 +179,8 @@ for xd in range(10000):
 def login():
 	print(logo)
 	print("")
-	u = 'M4HIN'
-	p = 'OPPO'
+	u = 'saimonre'
+	p = 'chudi'
 	user = input(f"{RED}     ENTER USERNAME ==  ")
 	pas = input(f" {GREEN}    ENTER PASSWORD ==  ")
 	if user == u and pas == p:
@@ -195,7 +195,7 @@ def login():
 		
 def vuda():
 	print(logo)
-	print(f"[1] {RED}ROST M4HIN")
+	print(f"[1] {RED}ROST GAARA")
 	print(f"{GREEN}[2] RANDOM CRACK{RED} [BEST]")
 	voda=input(" CHOICE : ")
 	if a in ["2", "B","b"]:
